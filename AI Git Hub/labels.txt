@@ -1,0 +1,5 @@
+0 0m to 1m
+1 1.1m to 2m
+2 2.1m to 3m
+3 3.1m to 4m
+4 Background Noise
